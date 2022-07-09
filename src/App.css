@@ -358,6 +358,7 @@ color: #000000;
     width: 100vw;
     height: 687px;
     background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(./title.png);
+    background-position: center;
   }
   .content{
     display: flex;
